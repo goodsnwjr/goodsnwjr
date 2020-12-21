@@ -4,6 +4,7 @@
 
 <p align="center">👋 안녕하세요 👋</p>
 <p align="center"> 저는 😸<span style="color:orange">Cat</span>😸 Coding 입니다 </p>
+<p align="center">i love <span style="color:#63e6be">MINT</span></p>
 </br>
 
 <h3 align="center"> 💻 Technology Stack 💻 </h3>
@@ -27,4 +28,21 @@
 </br>
 </br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=goodsnwjr)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+
+<a href="https://github.com/goodsnwjr/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodsnwjr&show_icons=true&theme=dracula&locale=kr&disable_animations=false" />
+</a>
+</div>
+
+</br>
+
+<div align="center">
+<a href="https://github.com/goodsnwjr/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=goodsnwjr&show_icons=true&theme=dracula&locale=kr&disable_animations=false" />
+</a>
+</div>
+
+
+
