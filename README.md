@@ -1,4 +1,8 @@
-![header](<https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Cat%20Coding();&fontSize=90&rotate=4&animation=twinkling>)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Cat%20Coding();&fontSize=90&rotate=4&animation=twinkling" />
+</div>
+
 
 </br>
 
@@ -10,12 +14,10 @@
 <h3 align="center"> 💻 Technology Stack 💻 </h3>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/></a>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>&nbsp<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/></a>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/loopback-3f5dff?style=flat&logo=&logoColor=black"/></a> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Postman
--FF6C37?style=flat&logo=Postman&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/loopback-3f5dff?style=flat&logo=&logoColor=black"/></a>&nbsp<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon%20AWS&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/></a>
 </div>
 
 </br>
