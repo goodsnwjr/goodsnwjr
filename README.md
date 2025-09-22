@@ -6,7 +6,7 @@
 
 <p align="center">👋 안녕하세요 👋</p>
 <p align="center"> 저는 😸<span style="color:orange">Cat</span>😸 Coding 입니다 </p>
-<p align="center">i love <span style="color:#63e6be">MINT</span></p>
+<p align="center">i love <span style="color:#63e6be">MINT Choco</span></p>
 </br>
 
 <h3 align="center"> 💻 Technology Stack 💻 </h3>
